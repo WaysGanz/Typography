@@ -1,0 +1,5 @@
+Taruh foto kamu di folder ini dengan nama persis seperti berikut (jpg):
+merbabu-1, cikuray-1, ciremai-1, papandayan-1,
+touring-1, touring-2, touring-3, dump-1 sampai dump-5.
+Kalau file belum ada, otomatis tampil gradient gunung.
+Tips: kecilkan foto ke lebar 1600px supaya cepat dibuka.
