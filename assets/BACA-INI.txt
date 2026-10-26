@@ -1,5 +1,5 @@
-Taruh foto kamu di folder ini dengan nama persis seperti berikut (jpg):
-merbabu-1, cikuray-1, ciremai-1, papandayan-1,
-touring-1, touring-2, touring-3, dump-1 sampai dump-5.
-Kalau file belum ada, otomatis tampil gradient gunung.
-Tips: kecilkan foto ke lebar 1600px supaya cepat dibuka.
+Taruh foto kamu di folder ini (jpg/png/webp), lalu tulis nama filenya di content.js.
+Nama file bebas, asal sama persis (huruf kecil, tanpa spasi lebih aman).
+Contoh bawaan: merbabu-1, cikuray-1, ciremai-1, papandayan-1,
+touring-1..3, dump-1..5 (.jpg). Belum ada file = tampil gradient gunung.
+Tips: kecilkan foto ke lebar sekitar 1600px biar cepat dibuka.
